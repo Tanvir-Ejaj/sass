@@ -1,0 +1,49 @@
+.nav {
+  background: rgb(255, 0, 0);
+  padding: 40px 0;
+}
+
+.banner {
+  background: #000;
+  padding: 100px;
+}
+
+.footer {
+  background: rgb(164, 144, 144);
+  padding: 30px 0;
+}
+
+.extra {
+  background: rgb(38, 255, 0);
+  padding: 50px 0;
+}
+
+.nav {
+  background: rgb(255, 0, 0);
+  padding: 40px 0;
+}
+
+.main-about {
+  color: red;
+  font-size: 100px;
+}
+
+.footer {
+  background: rgb(164, 144, 144);
+  padding: 30px 0;
+}
+
+.nav {
+  background: rgb(255, 0, 0);
+  padding: 40px 0;
+}
+
+.main-contact {
+  color: blueviolet;
+  font-size: 200px;
+}
+
+.footer {
+  background: rgb(164, 144, 144);
+  padding: 30px 0;
+}/*# sourceMappingURL=style.css.map */
